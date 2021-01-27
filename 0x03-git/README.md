@@ -1,1 +1,1 @@
-# understanding and learning about git
+# understanding and learning more concerning usage of git
