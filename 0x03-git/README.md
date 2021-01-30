@@ -1,2 +1,2 @@
 # alx-zero_day
-Grasp git basics
+Git basics. Understanding git and commands
